@@ -1,7 +1,16 @@
+Database- MySQL Workbench 8.0
+Spring Boot version - 2.2.1.RELEASE
+Java Version - Java 1.8
+
+Database Name = student
+Table Name = student_details
+
 Group = com.student
-Artifact = Student Score Management
+Artifact = StudentGradeSystem
+packaging - WAR
 First letter of the pacakges should be small (example- com.student.controller)
 Model- Class Name = StudentDetails
 Controller- Class Name = StudentController
 Service- Class Name = StudentService
 Repository- Interface Name = StudentRepository
+
