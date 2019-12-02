@@ -10,7 +10,7 @@ Artifact = StudentGradeSystem
 packaging - WAR
 First letter of the pacakges should be small (example- com.student.controller)
 Model- Class Name = StudentDetails
-Controller- Class Name = StudentController
+Controller - Class Name = StudentController
 Service- Class Name = StudentService
 Repository- Interface Name = StudentRepository
 
